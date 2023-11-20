@@ -1,0 +1,13 @@
+C:\Users\acern\Downloads\tes\tes\bin\Debug\netcoreapp3.1\tes.exe
+C:\Users\acern\Downloads\tes\tes\bin\Debug\netcoreapp3.1\tes.deps.json
+C:\Users\acern\Downloads\tes\tes\bin\Debug\netcoreapp3.1\tes.runtimeconfig.json
+C:\Users\acern\Downloads\tes\tes\bin\Debug\netcoreapp3.1\tes.runtimeconfig.dev.json
+C:\Users\acern\Downloads\tes\tes\bin\Debug\netcoreapp3.1\tes.dll
+C:\Users\acern\Downloads\tes\tes\bin\Debug\netcoreapp3.1\tes.pdb
+C:\Users\acern\Downloads\tes\tes\obj\Debug\netcoreapp3.1\tes.csprojAssemblyReference.cache
+C:\Users\acern\Downloads\tes\tes\obj\Debug\netcoreapp3.1\tes.AssemblyInfoInputs.cache
+C:\Users\acern\Downloads\tes\tes\obj\Debug\netcoreapp3.1\tes.AssemblyInfo.cs
+C:\Users\acern\Downloads\tes\tes\obj\Debug\netcoreapp3.1\tes.csproj.CoreCompileInputs.cache
+C:\Users\acern\Downloads\tes\tes\obj\Debug\netcoreapp3.1\tes.dll
+C:\Users\acern\Downloads\tes\tes\obj\Debug\netcoreapp3.1\tes.pdb
+C:\Users\acern\Downloads\tes\tes\obj\Debug\netcoreapp3.1\tes.genruntimeconfig.cache
